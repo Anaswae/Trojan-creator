@@ -4,7 +4,7 @@ Trojan for Windows by Iqbalmh18
 Recquirements
 ````
 pkg install -y python git curl wget
-git clone htps://github.com/saydog/Trojan-creator
+git clone https://github.com/saydog/Trojan-creator
 cd Trojan-creator
 python trojan.py
 ````
